@@ -8,6 +8,10 @@
             //create 2 integer variables : int a (17) , int b (4)
             var a = 17;
             var b = 4;
+            // write operators for add,subtract,multiply,divide,modolus
+            int sum = a + b;
+            int difference = a - b;
+            int product = a * b;
             var quotient = a / b;
             var reminder = a % b;
 

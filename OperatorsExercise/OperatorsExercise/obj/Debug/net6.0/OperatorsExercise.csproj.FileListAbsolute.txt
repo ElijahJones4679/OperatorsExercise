@@ -12,3 +12,17 @@ C:\Users\jones\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0
 C:\Users\jones\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.pdb
 C:\Users\jones\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.genruntimeconfig.cache
 C:\Users\jones\source\repos\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\ref\OperatorsExercise.dll
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.exe
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.deps.json
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.runtimeconfig.json
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.dll
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\bin\Debug\net6.0\OperatorsExercise.pdb
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.AssemblyInfo.cs
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.dll
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\refint\OperatorsExercise.dll
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.pdb
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\OperatorsExercise.genruntimeconfig.cache
+C:\Users\jones\source\repos\Operators_Exercise\OperatorsExercise\OperatorsExercise\obj\Debug\net6.0\ref\OperatorsExercise.dll
